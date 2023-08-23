@@ -13,7 +13,9 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=lissakariuki&style=flat-square&color=red" alt=""/>
-
+ <div align="center">
+  <img src="https://media.giphy.com/media/73kKE9yqx9gSZDaB2e/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### 👩‍💻: About Me :
